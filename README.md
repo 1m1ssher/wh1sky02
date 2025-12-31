@@ -93,7 +93,3 @@ Modern full-stack Django application enabling restaurants to manage orders throu
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
