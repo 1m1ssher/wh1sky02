@@ -68,11 +68,11 @@ Modern full-stack Django application enabling restaurants to manage orders throu
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wh1sky02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wh1sky02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wh1sky02&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wh1sky02&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wh1sky02&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=wh1sky02&theme=tokyonight&hide_border=true&cache_seconds=7200)
   
 </div>
 
