@@ -1,13 +1,5 @@
 # 👋 Hey there, I'm wh1sky02!
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=wh1sky02&color=blueviolet&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/wh1sky02?label=Follow&style=social)](https://github.com/wh1sky02)
-  [![GitHub stars](https://img.shields.io/github/stars/wh1sky02?label=Stars&style=social)](https://github.com/wh1sky02)
-  
-</div>
-
 ## 🎯 About Me
 
 > 🌏 Based in **Singapore**  
