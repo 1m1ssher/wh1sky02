@@ -5,7 +5,6 @@
   ![Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Security+Researcher;AI+Enthusiast;Full-Stack+Developer;Always+Learning+%F0%9F%9A%80)
   
 </div>
----
 
 I love building practical tools that solve real problems, from security research tools to AI-powered applications. Currently exploring the intersection of **security**, **AI**, and **web development**.
 
