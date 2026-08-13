@@ -1,45 +1,30 @@
-## 🎯 About Me
----
 <div align="center">
-  
-  ![Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Security+Researcher;AI+Enthusiast;Full-Stack+Developer;Always+Learning+%F0%9F%9A%80)
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Security+Researcher;Full-Stack+Developer;Building+in+the+open" alt="wh1sky02">
 </div>
 
-I love building practical tools that solve real problems, from security research tools to AI-powered applications. Currently exploring the intersection of **security**, **AI**, and **web development**.
+I'm a developer working at the intersection of security research and applied AI. I build tools I actually use — reverse engineering utilities, web app security notes, NLP benchmarks, and browser-first AI clients — and keep them here.
 
----
+## What I'm Working On
 
-## 🛠️ Tech Stack
+| Project | What it is |
+| --- | --- |
+| [RavenGPT](https://github.com/1m1ssher/RavenGPT) | Browser-only AI chat with reasoning, search, and vision modes — live at [raven-gpt0.vercel.app](https://raven-gpt0.vercel.app) |
+| [BurmeseGLUE](https://github.com/1m1ssher/BurmeseGLUE) | A shared benchmark for evaluating Burmese NLP models |
+| [copy-fail-python](https://github.com/1m1ssher/copy-fail-python) | Python proof-of-concept for CVE-2026-31431, a Linux kernel privilege escalation |
+| [PortSwigger-Academy-CheatSheets](https://github.com/1m1ssher/PortSwigger-Academy-CheatSheets) | Payloads and notes from working through the PortSwigger Web Security Academy |
+| [KeyForge](https://github.com/1m1ssher/KeyForge) | Bulk API key validation with a terminal-styled interface |
+| [CogniVault-RAG-Engine](https://github.com/1m1ssher/CogniVault-RAG-Engine) | A Next.js RAG pipeline: ingest, chunk, embed, retrieve |
 
-<div align="left">
-  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-  
-</div>
+## Stack
 
----
+I reach for **TypeScript** (React/Next.js) for web work, **Python** for research and scripting, and **Django** when I need a solid backend fast. My daily driver is [Kali Linux](https://www.kali.org/); most of my security work runs on it.
 
-##  OS
+## Now
 
-<div align="left">
-  
-  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-  
-</div>
+- Finishing projects that have been sitting at ~90% done
+- Deepening Burmese NLP work around BurmeseGLUE
+- Web application security — currently working through PortSwigger systematically
 
----
+## Connect
 
-## 🤝 Let's Connect!
-
-<div align="left">
-  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seinlinn)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://wh1sky02.github.io/)
-  
-</div>
-
----
+[LinkedIn](https://www.linkedin.com/in/seinlinn) · [Portfolio](https://wh1sky02.github.io/)
