@@ -27,4 +27,4 @@ I reach for **TypeScript** (React/Next.js) for web work, **Python** for research
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/seinlinn) · [Portfolio](https://wh1sky02.github.io/)
+[LinkedIn](https://www.linkedin.com/in/seinlinn) · [Portfolio](https://1m1ssher.github.io/wh1sky02.github.io/) · [GitHub](https://github.com/1m1ssher)
